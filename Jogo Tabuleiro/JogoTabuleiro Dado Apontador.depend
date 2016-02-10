@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1352743076 source:c:\users\enzo roiz\documents\faculdade\semestre i\aeds ii\tp1 - tabuleiro\jogotabuleiro dado apontador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"JogoTabuleiro.h"
+
+1352751930 c:\users\enzo roiz\documents\faculdade\semestre i\aeds ii\tp1 - tabuleiro\jogotabuleiro dado apontador\jogotabuleiro.h
+	<stdio.h>
+	<stdlib.h>
+
+1352748814 source:c:\users\enzo roiz\documents\faculdade\semestre i\aeds ii\tp1 - tabuleiro\jogotabuleiro dado apontador\jogotabuleiro.c
+	"JogoTabuleiro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+

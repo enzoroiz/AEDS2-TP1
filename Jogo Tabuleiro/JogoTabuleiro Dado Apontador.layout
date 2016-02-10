@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="JogoTabuleiro.c" open="1" top="0" tabpos="2">
+		<Cursor position="8796" topLine="193" />
+	</File>
+	<File name="JogoTabuleiro.h" open="1" top="0" tabpos="3">
+		<Cursor position="1307" topLine="22" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="530" topLine="61" />
+	</File>
+</CodeBlocks_layout_file>
